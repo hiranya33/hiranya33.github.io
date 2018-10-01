@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Post!
+title: MTA Subway Traffic -Exploratory Data Analysis!
 ---
 
 # Hello World
