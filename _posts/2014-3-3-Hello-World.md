@@ -3,7 +3,12 @@ layout: post
 title: MTA Subway Traffic -Exploratory Data Analysis!
 ---
 
-# Hello World
+## The Challenge
+> WomenTechWomenYes (WTWY) is a charitable organization that has an Annual Gala at the beginning of Summer every year. We were tasked to use exploratory data analysis to determine the very best subway locations to optimize the placemnet of their street team in order to spread awareness and fill the gala with people who are passionate about increasing the participation of women in technology and contribute to the cause.
+
+## The Data
+>
+
 
 
 ### This is a subsection
